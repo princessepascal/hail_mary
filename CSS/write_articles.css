@@ -1,4 +1,4 @@
-.clean2
+.clean5
  {
 
 float: right;
@@ -10,7 +10,7 @@ padding-top: 20px;
 
 
 
-.word2
+.word5
 {
 position: absolute;
 top: 30px;
@@ -19,7 +19,7 @@ left: 37px;
 
 }
 
-.redC2
+.redC5
 
 {
 
@@ -35,7 +35,7 @@ background: #FC4F13;
 
 
 }
-.yellowC2
+.yellowC5
 {
 
 /* Ellipse 4 */
@@ -50,7 +50,7 @@ border-radius: 100%;
 
 }
 
-.footer2 
+.footer5 
  {
 
     position: absolute;
@@ -61,7 +61,7 @@ border-radius: 100%;
    margin-left: -8.3px;
 }
 
-.word3
+.word6
 {
 position: absolute;
 top: 10px;
@@ -70,7 +70,7 @@ left: 37px;
 
 }
 
-.redC3
+.redC6
 
 {
 
@@ -86,7 +86,7 @@ background: #FC4F13;
 
 
 }
-.yellowC3 
+.yellowC6 
 {
 
 /* Ellipse 4 */
